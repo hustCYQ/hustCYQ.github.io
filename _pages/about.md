@@ -78,6 +78,15 @@ If you are interested in my academic researches or projects, please feel free to
 <h2 id="Peer-Reviewed Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Peer-Reviewed Publications</h2>
 <ol reversed>
 
+
+  <li id="FA-Manuscript1"> 
+    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
+     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yihan Sun#, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
+    <i>AAAI Conference on Artificial Intelligence <strong>(AAAI 2026 Oral)</strong></i>.
+  </li>
+
+
+
   <li id="FA-Manuscript1"> 
     Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection <a href="https://ieeexplore.ieee.org/document/10898004">[Paper]</a> <a href="https://github.com/hustCYQ/GLFM-Multi-class-3DAD">[Code]</a> <br>  
     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng</span>, Yunkang Cao, Dongfang Wang, Weiming Shen*, Wenlong Li<br>
@@ -205,11 +214,6 @@ If you are interested in my academic researches or projects, please feel free to
     <i>Submitted to Neural Information Processing Systems <strong>(NeurIPS 2025)</strong></i>. (Under Review)
   </li>
 
-  <li id="FA-Manuscript1"> 
-    Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects <a href="https://arxiv.org/abs/2507.07435">[Paper]</a> <a href="https://github.com/hustCYQ/MiniShift-Simple3D">[Code]</a> <br> 
-     <span style="color:#b02418; font-weight:bold;">Yuqi Cheng#</span>, Yihan Sun#, Hui Zhang, Weiming Shen*, Yunkang Cao* <br>
-    <i>Submitted to AAAI Conference on Artificial Intelligence <strong>(AAAI 2026)</strong></i>.
-  </li>
 
   <li id="FA-Manuscript1"> 
     A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects  <a href="https://arxiv.org/abs/2507.13378">[Paper]</a> <br> 
