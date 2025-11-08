@@ -354,8 +354,8 @@ Mobile E-Ink Screen Surface Defect Detection
 - **The First Prize Scholarship**, 2020,2021,2022,2023.
 
 # 🎓📚 Academic Service 
-- **Journal Reviewer**: IEEE TCYB, TSMC, TASE, TMM, TII, TMech, TIM, RAL, etc.
-- **Conference Reviewer**: ICCV, ICRA, IROS, etc.
+- **Journal Reviewer**: 20+ IEEE Trans. including TIP, TCYB, TSMC, TCSVT, TNNLS, TASE, TMM, TSP, TII, TMech, etc.
+- **Conference Reviewer**: CVPR, NeurIPS, ICCV, AAAI, ICRA, IROS, etc.
 
 # 📖 Educations
                           
