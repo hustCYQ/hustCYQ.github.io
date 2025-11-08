@@ -35,6 +35,7 @@ If you are interested in my academic researches or projects, please feel free to
 
 # 🔥 News
 
+- *2025.11*: &nbsp;🎉🎉 Our paper addressed [3D Anomaly Detection](https://arxiv.org/pdf/2507.07435) has been accepted by **AAAI 2026 (Oral)**.
 - *2025.11*: &nbsp;🏆🏆 We won the **National Grand Prize (全国特等奖)** in the National AI Application Scenario Innovation Challenge.
 - *2025.10*: &nbsp;🏆🏆 We won the **Gold Award** at the China Association of Invention - Invention Exhibition (中国发明协会展览金奖).
 - *2025.07*: &nbsp;🎉🎉 We released  [A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects](https://arxiv.org/abs/2507.13378).
